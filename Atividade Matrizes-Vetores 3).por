@@ -8,9 +8,9 @@ programa
 
 		para(inteiro bim=0; bim < 4; bim++){
 			escreva("Quais foram as suas notas?? \n")
-			leia(notas [bim])
+			leia(notas[bim])
 
-			media = media + notas [bim]
+			media = media + notas[bim]
 		              }
 
 		media = media / 4
