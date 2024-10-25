@@ -11,13 +11,13 @@ programa
 			leia(notas[bim])
 
 			media = media + notas[bim]
-		              }
+	}
 
 		media = media / 4
 
 		para(inteiro j=0; j < 4; j++) {
 			escreva("Você tirou  nota: ", notas [j], " na ", j+1, " avaliação \n")
-	                             }
+	}
 
 		escreva("Sua média foi:  ", media)
 	}
