@@ -14,7 +14,7 @@ programa
 
 		para(inteiro j=0; j < 10; j++) {
 			se (n [j] % 2 == 0) {
-				escreva("O numero informado (", n [j], ") é par! E está armazenado na posição ", j," do vetor! (vetor [10] = 0-9) \n")
+				escreva("O numero informado (", n [j], ") é par. Está armazenado na posição ", j," do vetor. (vetor [10] = 0-9) \n")
 			                          }
 	                            	}
 	}
